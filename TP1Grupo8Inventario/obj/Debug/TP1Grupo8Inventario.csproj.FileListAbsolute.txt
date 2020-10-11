@@ -1,0 +1,7 @@
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\bin\Debug\TP1Grupo8Inventario.exe.config
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\bin\Debug\TP1Grupo8Inventario.exe
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\bin\Debug\TP1Grupo8Inventario.pdb
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\obj\Debug\TP1Grupo8Inventario.csprojAssemblyReference.cache
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\obj\Debug\TP1Grupo8Inventario.csproj.CoreCompileInputs.cache
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\obj\Debug\TP1Grupo8Inventario.exe
+C:\ACADEMICO\Terciario ifts 18\tpestructura\TP1Grupo8Inventario\TP1Grupo8Inventario\obj\Debug\TP1Grupo8Inventario.pdb
